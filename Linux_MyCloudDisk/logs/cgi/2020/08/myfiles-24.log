@@ -1,0 +1,8 @@
+[2020-08-24 17:23:04]--[src_cgi/myfiles_cgi.c:40]--mysql:[user=root,pwd=123456,database=cloud_disk][2020-08-24 18:16:48]--[src_cgi/myfiles_cgi.c:496]--cmd = count
+[2020-08-24 18:16:48]--[src_cgi/myfiles_cgi.c:528]--buf = {
+    "token": "e5f6d0ca75e9ad15fa75e878a4198193",
+    "user": "ccy"
+}
+
+[2020-08-24 18:16:48]--[src_cgi/myfiles_cgi.c:164]--select count from user_file_count where user="ccy" 操作失败
+[2020-08-24 18:16:48]--[src_cgi/myfiles_cgi.c:176]--line = 0

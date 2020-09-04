@@ -1,0 +1,16 @@
+[2020-08-26 02:43:13]--[src_cgi/myfiles_cgi.c:40]--mysql:[user=root,pwd=123456,database=cloud_disk][2020-08-26 11:19:49]--[src_cgi/myfiles_cgi.c:40]--mysql:[user=root,pwd=123456,database=cloud_disk][2020-08-26 11:20:34]--[src_cgi/myfiles_cgi.c:496]--cmd = count
+[2020-08-26 11:20:34]--[src_cgi/myfiles_cgi.c:528]--buf = {
+    "token": "2a5ff100514c4cc605b0425773347421",
+    "user": "ccy"
+}
+
+[2020-08-26 11:20:34]--[src_cgi/myfiles_cgi.c:164]--select count from user_file_count where user="ccy" 操作失败
+[2020-08-26 11:20:34]--[src_cgi/myfiles_cgi.c:176]--line = 0
+[2020-08-26 23:03:56]--[src_cgi/myfiles_cgi.c:40]--mysql:[user=root,pwd=123456,database=cloud_disk][2020-08-26 23:04:57]--[src_cgi/myfiles_cgi.c:496]--cmd = count
+[2020-08-26 23:04:57]--[src_cgi/myfiles_cgi.c:528]--buf = {
+    "token": "41eb52f53ef544ba63c775a7f0ba7023",
+    "user": "ccy"
+}
+
+[2020-08-26 23:04:57]--[src_cgi/myfiles_cgi.c:164]--select count from user_file_count where user="ccy" 操作失败
+[2020-08-26 23:04:57]--[src_cgi/myfiles_cgi.c:176]--line = 0

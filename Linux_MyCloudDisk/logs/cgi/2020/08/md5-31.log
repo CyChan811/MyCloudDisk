@@ -1,0 +1,48 @@
+[2020-08-31 16:36:55]--[src_cgi/md5_cgi.c:40]--mysql:[user=root,pwd=123456,database=cloud_disk][2020-08-31 16:51:05]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "1-140926150215.jpg",
+    "md5": "b5b5b6a7fa9a41c30439edd3eebf3cba",
+    "token": "c332fe0210277160d6ae6bf8a26afe7e",
+    "user": "ccy"
+}
+
+[2020-08-31 16:51:05]--[src_cgi/md5_cgi.c:361]--user = ccy, token = c332fe0210277160d6ae6bf8a26afe7e, md5 = b5b5b6a7fa9a41c30439edd3eebf3cba, filename = 1-140926150215.jpg
+[2020-08-31 17:09:13]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "02-上传界面搭建和选择文件功能实现_北京修正黑马C++就业课.avi",
+    "md5": "6b2a40f5cab0be76acbfb7e0748efc73",
+    "token": "6b78b6b5bb12bd0ca6e70f5fb71a78c5",
+    "user": "ccy"
+}
+
+[2020-08-31 17:09:13]--[src_cgi/md5_cgi.c:361]--user = ccy, token = 6b78b6b5bb12bd0ca6e70f5fb71a78c5, md5 = 6b2a40f5cab0be76acbfb7e0748efc73, filename = 02-上传界面搭建和选择文件功能实现_北京修正黑马C++就业课.avi
+[2020-08-31 17:11:23]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "0d338744ebf81a4c6313c116d52a6059242da6cf.jpg",
+    "md5": "d06ca606531dd369b2d9ffb838ee1613",
+    "token": "6b78b6b5bb12bd0ca6e70f5fb71a78c5",
+    "user": "ccy"
+}
+
+[2020-08-31 17:11:23]--[src_cgi/md5_cgi.c:361]--user = ccy, token = 6b78b6b5bb12bd0ca6e70f5fb71a78c5, md5 = d06ca606531dd369b2d9ffb838ee1613, filename = 0d338744ebf81a4c6313c116d52a6059242da6cf.jpg
+[2020-08-31 17:13:04]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "06-文件下载_北京修正黑马C++就业课.avi",
+    "md5": "9650ae8a55c51a8398ee39dd55537e40",
+    "token": "6b78b6b5bb12bd0ca6e70f5fb71a78c5",
+    "user": "ccy"
+}
+
+[2020-08-31 17:13:04]--[src_cgi/md5_cgi.c:361]--user = ccy, token = 6b78b6b5bb12bd0ca6e70f5fb71a78c5, md5 = 9650ae8a55c51a8398ee39dd55537e40, filename = 06-文件下载_北京修正黑马C++就业课.avi
+[2020-08-31 17:24:51]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "test.mp4",
+    "md5": "d99ccea934ff805502908bad368a5860",
+    "token": "6b78b6b5bb12bd0ca6e70f5fb71a78c5",
+    "user": "ccy"
+}
+
+[2020-08-31 17:24:51]--[src_cgi/md5_cgi.c:361]--user = ccy, token = 6b78b6b5bb12bd0ca6e70f5fb71a78c5, md5 = d99ccea934ff805502908bad368a5860, filename = test.mp4
+[2020-08-31 17:26:06]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "test.mp4",
+    "md5": "d99ccea934ff805502908bad368a5860",
+    "token": "b7dc595f158867b934c210a12dfbd67b",
+    "user": "ccy"
+}
+
+[2020-08-31 17:26:06]--[src_cgi/md5_cgi.c:361]--user = ccy, token = b7dc595f158867b934c210a12dfbd67b, md5 = d99ccea934ff805502908bad368a5860, filename = test.mp4

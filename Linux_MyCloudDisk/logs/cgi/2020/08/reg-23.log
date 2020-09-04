@@ -1,0 +1,10 @@
+[2020-08-23 21:38:36]--[src_cgi/reg_cgi.c:236]--buf = {
+    "email": "abc@qq.com",
+    "firstPwd": "e10adc3949ba59abbe56e057f20f883e",
+    "nickName": "ccy",
+    "phone": "11111111111",
+    "userName": "ccy"
+}
+
+[2020-08-23 21:38:36]--[src_cgi/reg_cgi.c:128]--mysql_user = root, mysql_pwd = 123456, mysql_db = cloud_disk
+[2020-08-23 21:38:36]--[src_cgi/reg_cgi.c:141]--user = ccy, nick_name = ccy, pwd = e10adc3949ba59abbe56e057f20f883e, tel = 11111111111, email = abc@qq.com

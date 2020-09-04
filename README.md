@@ -1,2 +1,6 @@
 # MyCloudDisk
-分布式文件系统
+nginx + fastdfs搭建的分布式文件系统
+可实现文件上传、下载和分享等基本功能
+
+Qt_MyCloudDisk为windows系统下的客户端程序
+Linux_MyCloudDisk为Linux系统下的服务器程序

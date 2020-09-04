@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/MyImages">
+        <file>image/close.png</file>
+        <file>image/logo.png</file>
+        <file>image/min.png</file>
+        <file>image/set.png</file>
+        <file>image/bg.jpg</file>
+        <file>image/blue.jpg</file>
+        <file>image/white.jpg</file>
+        <file>image/button.png</file>
+        <file>image/miao_logo.png</file>
+        <file>image/change_user.png</file>
+        <file>image/file_down.png</file>
+        <file>image/file_share.png</file>
+        <file>image/my_file.png</file>
+        <file>image/user.png</file>
+        <file>image/max.png</file>
+        <file>image/file_updown.png</file>
+        <file>image/bg1.jpg</file>
+        <file>image/no_max.png</file>
+        <file>image/file_tran.png</file>
+    </qresource>
+</RCC>

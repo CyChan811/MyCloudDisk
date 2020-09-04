@@ -1,0 +1,21 @@
+[2020-08-24 02:01:18]--[src_cgi/reg_cgi.c:236]--buf = {
+    "email": "123@qq.com",
+    "firstPwd": "123456",
+    "nickName": "CyChan",
+    "phone": "12312312312",
+    "userName": "ccy"
+}
+
+[2020-08-24 02:01:18]--[src_cgi/reg_cgi.c:128]--mysql_user = root, mysql_pwd = 123456, mysql_db = cloud_disk
+[2020-08-24 02:01:18]--[src_cgi/reg_cgi.c:141]--user = ccy, nick_name = CyChan, pwd = 123456, tel = 12312312312, email = 123@qq.com
+[2020-08-24 02:01:18]--[src_cgi/reg_cgi.c:165]--【(null)】该用户已存在
+[2020-08-24 02:01:45]--[src_cgi/reg_cgi.c:236]--buf = {
+    "email": "123@qq.com",
+    "firstPwd": "123456",
+    "nickName": "MpChan",
+    "phone": "12312312312",
+    "userName": "cmp"
+}
+
+[2020-08-24 02:01:45]--[src_cgi/reg_cgi.c:128]--mysql_user = root, mysql_pwd = 123456, mysql_db = cloud_disk
+[2020-08-24 02:01:45]--[src_cgi/reg_cgi.c:141]--user = cmp, nick_name = MpChan, pwd = 123456, tel = 12312312312, email = 123@qq.com

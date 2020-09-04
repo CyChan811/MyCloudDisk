@@ -1,0 +1,19 @@
+[2020-08-31 16:36:55]--[src_cgi/dealfile_cgi.c:42]--mysql:[user=root,pwd=123456,database=cloud_disk][2020-08-31 16:36:55]--[src_cgi/dealfile_cgi.c:47]--redis:[ip=127.0.0.1,port=6379]
+[2020-08-31 17:12:06]--[src_cgi/dealfile_cgi.c:695]--cmd = pv
+[2020-08-31 17:12:06]--[src_cgi/dealfile_cgi.c:727]--buf = {
+    "filename": "0d338744ebf81a4c6313c116d52a6059242da6cf.jpg",
+    "md5": "d06ca606531dd369b2d9ffb838ee1613",
+    "token": "6b78b6b5bb12bd0ca6e70f5fb71a78c5",
+    "user": "ccy"
+}
+
+[2020-08-31 17:12:06]--[src_cgi/dealfile_cgi.c:730]--user = ccy, token = 6b78b6b5bb12bd0ca6e70f5fb71a78c5, md5 = d06ca606531dd369b2d9ffb838ee1613, filename = 0d338744ebf81a4c6313c116d52a6059242da6cf.jpg
+[2020-08-31 17:12:21]--[src_cgi/dealfile_cgi.c:695]--cmd = share
+[2020-08-31 17:12:21]--[src_cgi/dealfile_cgi.c:727]--buf = {
+    "filename": "0d338744ebf81a4c6313c116d52a6059242da6cf.jpg",
+    "md5": "d06ca606531dd369b2d9ffb838ee1613",
+    "token": "6b78b6b5bb12bd0ca6e70f5fb71a78c5",
+    "user": "ccy"
+}
+
+[2020-08-31 17:12:21]--[src_cgi/dealfile_cgi.c:730]--user = ccy, token = 6b78b6b5bb12bd0ca6e70f5fb71a78c5, md5 = d06ca606531dd369b2d9ffb838ee1613, filename = 0d338744ebf81a4c6313c116d52a6059242da6cf.jpg

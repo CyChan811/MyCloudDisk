@@ -1,0 +1,22 @@
+[2020-08-31 16:36:55]--[src_cgi/upload_cgi.c:42]--mysql:[user=root,pwd=123456,database=cloud_disk][2020-08-31 16:51:05]--[src_cgi/upload_cgi.c:616]--ccy成功上传[1-140926150215.jpg, 大小：370419, md5码：b5b5b6a7fa9a41c30439edd3eebf3cba]到本地
+[2020-08-31 16:51:05]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/wKgdi19MufmAO6ynAAWm833fNpE747.jpg] succ!
+[2020-08-31 16:51:05]--[src_cgi/upload_cgi.c:456]--file url is: http://192.168.29.139:8080/group1/M00/00/00/wKgdi19MufmAO6ynAAWm833fNpE747.jpg
+[2020-08-31 16:51:05]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('b5b5b6a7fa9a41c30439edd3eebf3cba', 'group1/M00/00/00/wKgdi19MufmAO6ynAAWm833fNpE747.jpg', 'http://192.168.29.139:8080/group1/M00/00/00/wKgdi19MufmAO6ynAAWm833fNpE747.jpg', '370419', 'jpg', 1) 文件信息插入成功
+[2020-08-31 17:09:14]--[src_cgi/upload_cgi.c:616]--ccy成功上传[02-上传界面搭建和选择文件功能实现_北京修正黑马C++就业课.avi, 大小：36538232, md5码：6b2a40f5cab0be76acbfb7e0748efc73]到本地
+[2020-08-31 17:09:14]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/wKgdi19MvjqADKI8Ai2HeKuVCnI437.avi] succ!
+[2020-08-31 17:09:15]--[src_cgi/upload_cgi.c:456]--file url is: http://192.168.29.139:8080/group1/M00/00/00/wKgdi19MvjqADKI8Ai2HeKuVCnI437.avi
+[2020-08-31 17:09:15]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('6b2a40f5cab0be76acbfb7e0748efc73', 'group1/M00/00/00/wKgdi19MvjqADKI8Ai2HeKuVCnI437.avi', 'http://192.168.29.139:8080/group1/M00/00/00/wKgdi19MvjqADKI8Ai2HeKuVCnI437.avi', '36538232', 'avi', 1) 文件信息插入成功
+[2020-08-31 17:09:15]--[src_cgi/upload_cgi.c:530]--insert into user_file_list(user, md5, createtime, filename, shared_status, pv) values ('ccy', '6b2a40f5cab0be76acbfb7e0748efc73', '2020-08-31 17:09:15', '02-上传界面搭建和选择文件功能实现_北京修正黑马C++就业课.avi', 0, 0) 操作失败: Incorrect string value: '\xE4\xB8\x8A\xE4\xBC\xA0...' for column 'filename' at row 1
+[2020-08-31 17:11:23]--[src_cgi/upload_cgi.c:616]--ccy成功上传[0d338744ebf81a4c6313c116d52a6059242da6cf.jpg, 大小：203182, md5码：d06ca606531dd369b2d9ffb838ee1613]到本地
+[2020-08-31 17:11:23]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/wKgdi19MvruAbl14AAMZrkyWeyY168.jpg] succ!
+[2020-08-31 17:11:23]--[src_cgi/upload_cgi.c:456]--file url is: http://192.168.29.139:8080/group1/M00/00/00/wKgdi19MvruAbl14AAMZrkyWeyY168.jpg
+[2020-08-31 17:11:23]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('d06ca606531dd369b2d9ffb838ee1613', 'group1/M00/00/00/wKgdi19MvruAbl14AAMZrkyWeyY168.jpg', 'http://192.168.29.139:8080/group1/M00/00/00/wKgdi19MvruAbl14AAMZrkyWeyY168.jpg', '203182', 'jpg', 1) 文件信息插入成功
+[2020-08-31 17:13:06]--[src_cgi/upload_cgi.c:616]--ccy成功上传[06-文件下载_北京修正黑马C++就业课.avi, 大小：76592956, md5码：9650ae8a55c51a8398ee39dd55537e40]到本地
+[2020-08-31 17:13:08]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/wKgdi19MvySAPjS7BJC3PH6T4bE044.avi] succ!
+[2020-08-31 17:13:08]--[src_cgi/upload_cgi.c:456]--file url is: http://192.168.29.139:8080/group1/M00/00/00/wKgdi19MvySAPjS7BJC3PH6T4bE044.avi
+[2020-08-31 17:13:08]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('9650ae8a55c51a8398ee39dd55537e40', 'group1/M00/00/00/wKgdi19MvySAPjS7BJC3PH6T4bE044.avi', 'http://192.168.29.139:8080/group1/M00/00/00/wKgdi19MvySAPjS7BJC3PH6T4bE044.avi', '76592956', 'avi', 1) 文件信息插入成功
+[2020-08-31 17:13:08]--[src_cgi/upload_cgi.c:530]--insert into user_file_list(user, md5, createtime, filename, shared_status, pv) values ('ccy', '9650ae8a55c51a8398ee39dd55537e40', '2020-08-31 17:13:08', '06-文件下载_北京修正黑马C++就业课.avi', 0, 0) 操作失败: Incorrect string value: '\xE6\x96\x87\xE4\xBB\xB6...' for column 'filename' at row 1
+[2020-08-31 17:29:32]--[src_cgi/upload_cgi.c:616]--ccy成功上传[test.mp4, 大小：1365392929, md5码：d99ccea934ff805502908bad368a5860]到本地
+[2020-08-31 17:30:51]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/wKgdi19Mw0uAXMJhUWI-IS8_CpU638.mp4] succ!
+[2020-08-31 17:30:51]--[src_cgi/upload_cgi.c:456]--file url is: http://192.168.29.139:8080/group1/M00/00/00/wKgdi19Mw0uAXMJhUWI-IS8_CpU638.mp4
+[2020-08-31 17:30:52]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('d99ccea934ff805502908bad368a5860', 'group1/M00/00/00/wKgdi19Mw0uAXMJhUWI-IS8_CpU638.mp4', 'http://192.168.29.139:8080/group1/M00/00/00/wKgdi19Mw0uAXMJhUWI-IS8_CpU638.mp4', '1365392929', 'mp4', 1) 文件信息插入成功

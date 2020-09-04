@@ -1,0 +1,1 @@
+[2020-08-24 17:23:04]--[src_cgi/sharefiles_cgi.c:42]--mysql:[user=root,pwd=123456,database=cloud_disk][2020-08-24 17:23:04]--[src_cgi/sharefiles_cgi.c:47]--redis:[ip=127.0.0.1,port=6379]
