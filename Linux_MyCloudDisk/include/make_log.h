@@ -16,7 +16,7 @@ int dumpmsg_to_file(char *module_name, char *proc_name, const char *filename,
 #endif
 
 extern pthread_mutex_t ca_log_lock;
-
+ 
 #endif
 
 

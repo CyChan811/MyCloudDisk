@@ -1,6 +1,6 @@
 #include "downloadlayout.h"
 
-//静态数据成员，类中声明，类外必须定义
+//静态数据成员，类中声明，类外必须定义 
 DownloadLayout * DownloadLayout::instance = new DownloadLayout;
 
 //static类的析构函数在main()退出后调用

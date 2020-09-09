@@ -9,7 +9,7 @@
 //上传文件信息
 struct UploadFileInfo
 {
-    QString md5;        //文件md5码
+    QString md5;        //文件md5码 
     QFile *file;        //文件指针
     QString fileName;   //文件名字
     qint64 size;        //文件大小

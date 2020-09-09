@@ -4,7 +4,7 @@
 //静态数据成员，类中声明，类外定义
 LoginInfoInstance::Garbo LoginInfoInstance::tmp;
 
-//静态变量动态分配空间
+//静态变量动态分配空间 
 //静态数据成员，类中声明，类外必须定义
 LoginInfoInstance* LoginInfoInstance::instance = new LoginInfoInstance;
 

@@ -1,10 +1,4 @@
-/**
- * @file sharefiles_cgi.c
- * @brief  共享文件列表展示CGI程序
- * @author Mike
- * @version 2.0
- * @date 2017年3月7日21:46:57
- */
+//共享文件列表展示CGI程序
 
 #include "fcgi_config.h"
 #include "fcgi_stdio.h"

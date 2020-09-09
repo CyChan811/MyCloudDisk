@@ -9,7 +9,7 @@
 #include "dataprogress.h"
 #include <QList>
 
-//下载文件信息
+//下载文件信息 
 struct DownloadInfo
 {
     QFile *file;        //文件指针

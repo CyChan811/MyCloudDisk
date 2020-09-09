@@ -4,7 +4,7 @@
 #include "common.h"
 #include <QVBoxLayout>
 
-//下载进度布局类，单例模式
+//下载进度布局类，单例模式 
 class DownloadLayout
 {
 public:

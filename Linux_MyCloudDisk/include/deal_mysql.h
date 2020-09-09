@@ -27,7 +27,7 @@ void print_error(MYSQL *conn, const char *title);
  * @returns   
  *          成功：连接数据库的句柄
  *			失败：NULL
- */
+ */ 
 /* -------------------------------------------*/
 MYSQL* msql_conn(char *user_name, char* passwd, char *db_name);
 

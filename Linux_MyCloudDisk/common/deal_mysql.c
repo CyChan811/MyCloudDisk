@@ -10,7 +10,7 @@
  * @param conn       (in)    连接数据库的句柄
  * @param title      (int)   用户错误提示信息
  *
- */
+ */ 
 /* -------------------------------------------*/
 void print_error(MYSQL *conn, const char *title)
 {

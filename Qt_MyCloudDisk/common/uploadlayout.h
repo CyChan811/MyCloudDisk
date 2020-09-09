@@ -3,7 +3,7 @@
 #include "common.h"
 #include <QVBoxLayout>
 
-//上传进度布局类，单例模式
+//上传进度布局类，单例模式 
 class UploadLayout
 {
 public:

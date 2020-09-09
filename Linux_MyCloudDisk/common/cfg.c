@@ -1,10 +1,5 @@
-/**
- * @file cfg.c
- * @brief  读取配置文件信息
- * @author Mike
- * @version 1.0
- * @date
- */
+//读取配置文件信息
+
 
  #include "cJSON.h"
  #include <stdio.h>

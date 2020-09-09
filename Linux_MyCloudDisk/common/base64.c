@@ -6,7 +6,7 @@ const char * base64char = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0
 //bindata：  源字符串
 //binlength: 源字符串长度
 //base64：目的字符串，base64字符串
-//返回值：base64字符串
+//返回值：base64字符串 
 char * base64_encode( const unsigned char * bindata, int binlength, char * base64 )
 {
     int i, j;

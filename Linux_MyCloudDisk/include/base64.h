@@ -13,6 +13,6 @@ char * base64_encode( const unsigned char * bindata, int binlength, char * base6
 //bindata: 目的字符串
 //返回值：目的字符串长度
 int base64_decode( const char * base64, unsigned char * bindata );
-
+ 
 #endif // BASE64_H
 

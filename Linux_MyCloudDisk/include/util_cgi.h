@@ -13,7 +13,7 @@
 #define SUFFIX_LEN          (8)     //后缀名长度
 #define PIC_NAME_LEN        (10)    //图片资源名字长度
 #define PIC_URL_LEN         (256)   //图片资源url名字长度
-
+ 
 #define UTIL_LOG_MODULE     "cgi"
 #define UTIL_LOG_PROC       "util"
 

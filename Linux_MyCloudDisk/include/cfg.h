@@ -5,7 +5,7 @@
 
 #define CFG_LOG_MODULE "cgi"
 #define CFG_LOG_PROC   "cfg"
-
+ 
 /* -------------------------------------------*/
 /**
  * @brief  从配置文件中得到相对应的参数

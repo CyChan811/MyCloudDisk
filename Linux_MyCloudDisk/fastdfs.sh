@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# 关闭tracker 和 storage服务
+# 关闭tracker 和 storage服务 
 tracker_start()
 {
     ps aux | grep fdfs_trackerd | grep -v grep > /dev/null

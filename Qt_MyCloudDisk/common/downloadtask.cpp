@@ -4,7 +4,7 @@
 //静态数据成员，类中声明，类外必须定义
 DownloadTask * DownloadTask::instance;
 
-//static类的析构函数在main()退出后调用
+//static类的析构函数在main()退出后调用 
 DownloadTask::Garbo DownloadTask::temp; //静态数据成员，类中声明，类外定义
 
 DownloadTask * DownloadTask::getInstance()

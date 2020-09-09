@@ -1,10 +1,5 @@
-/**
- * @file util_cgi.c
- * @brief  cgi后台通用接口
- * @author Mike
- * @version 1.0
- * @date 2017年1月13日23:38:31
- */
+//cgi后台通用接口
+
  
 #include <ctype.h>
 #include <string.h>

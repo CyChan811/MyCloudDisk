@@ -3,7 +3,7 @@
 #include "uploadlayout.h"
 #include "common/common.h"
 
-//静态数据成员，类中声明，类外必须定义
+//静态数据成员，类中声明，类外必须定义 
 UploadTask * UploadTask::instance = new UploadTask;
 
 //static类的析构函数在main()退出后调用

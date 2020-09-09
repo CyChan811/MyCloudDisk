@@ -21,3 +21,4 @@ echo ============= redis ==============
 ./redis.sh stop
 # 启动redis
 ./redis.sh start
+ 

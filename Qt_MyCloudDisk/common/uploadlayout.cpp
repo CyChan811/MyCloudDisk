@@ -3,7 +3,7 @@
 //静态数据成员，类中声明，类外必须定义
 UploadLayout * UploadLayout::instance = new UploadLayout;
 
-//static类的析构函数在main()退出后调用
+//static类的析构函数在main()退出后调用 
 UploadLayout::Garbo UploadLayout::temp; //静态数据成员，类中声明，类外定义
 
 UploadLayout * UploadLayout::getInstance()

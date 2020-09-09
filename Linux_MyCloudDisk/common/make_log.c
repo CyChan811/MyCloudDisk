@@ -10,7 +10,7 @@
 #include<pthread.h>
 
 #if 1
-
+ 
 //pthread_mutex_t lock;
 //pthread_mutex_init(lock);
 /*void *comm_log(void *p)

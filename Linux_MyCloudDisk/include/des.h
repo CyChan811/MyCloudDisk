@@ -9,7 +9,7 @@
 #ifdef __cplusplus
 extern "C" {
 #endif
-
+ 
 
 //加密小于4k的数据（encrypt：加密）
 //pInData：明文数据
